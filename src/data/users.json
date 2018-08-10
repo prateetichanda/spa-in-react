@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "praful",
+      "username": "pd",
+      "email": "a@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "prateeti",
+      "username": "pd",
+      "email": "pfsd@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "google",
+      "username": "pdfsfd",
+      "email": "fsf@gmail.com"
+    },
+    {
+      "name": "fdfsdf",
+      "username": "dfsfsdf",
+      "email": "samsung",
+      "id": 4
+    },
+    {
+      "name": "dfsfdf",
+      "username": "dfsfd",
+      "email": "dfsdf",
+      "id": 5
+    },
+    {
+      "name": "retre",
+      "username": "fgfd",
+      "email": "pratete2gmail.com",
+      "id": 6
+    },
+    {
+      "name": "hgth",
+      "salary": "gfhgf",
+      "id": 7
+    }
+  ]
+}
